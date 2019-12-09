@@ -15,3 +15,6 @@ Dependencies required:
 5. run application
   python blockchain.py
 6. open browser and proceed to http://127.0.0.1:5000/
+
+
+youtube link: https://youtu.be/zTocpRKPWvo
